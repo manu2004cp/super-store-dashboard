@@ -1,3 +1,4 @@
+
 # super-store-dashboard
 Project Title: Super Store Sales & Forecasting Dashboard A dynamic, interactive dashboard for analyzing and forecasting sales performance—featuring multi-dimensional insights by region, segment, category and city. Built to empower data-driven decision-making for business performance and strategy.
 
@@ -38,3 +39,5 @@ Operational Efficiency: Optimize shipping and payment modes based on customer pr
 Forecasting: Provides actionable forward-looking metrics for inventory and sales planning.
 
 Screenshots Dashboard Example:
+<img width="1155" height="650" alt="dashboard" src="https://github.com/user-attachments/assets/51afc4ac-bdc2-4577-809b-76a6ed1fc418" />
+
