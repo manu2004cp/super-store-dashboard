@@ -37,7 +37,9 @@ Targeted Marketing: Insights to launch targeted campaigns in top-performing and 
 Operational Efficiency: Optimize shipping and payment modes based on customer preferences.
 
 Forecasting: Provides actionable forward-looking metrics for inventory and sales planning.
+
  Dashboard:
+ 
 <img width="1155" height="650" alt="dashboard" src="https://github.com/user-attachments/assets/51afc4ac-bdc2-4577-809b-76a6ed1fc418" />
 <img width="1021" height="670" alt="image" src="https://github.com/user-attachments/assets/2a6bac3b-ee2a-4bc8-b3d4-6b4d1970fa21" />
 
